@@ -9,3 +9,4 @@ else:
         dicenum = random.randint(0,6)
         dice+=1
         print(f"Dice {dice}: {dicenum} ")
+
